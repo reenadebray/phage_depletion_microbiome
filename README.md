@@ -12,4 +12,4 @@ Many infectious diseases are associated with altered bacteriophage communities. 
 
 *"Figure2b_2021fieldseason.xlsx"*: contains droplet digital PCR measurements from the phage depletion experiment in 2021.  
 
-*"Figure4_allopatryexpt.xlsx"*: contains droplet digital PCR measurements from the phage local adaptation experiment in 2021. For treatments that were sequenced (16S V4 amplicon), the BioSample ID is noted so that droplet digital PCR measurements can be linked to sequences on the NCBI SRA accession PRJNA1121198.
+*"Figure4_allopatryexpt.xlsx"*: contains droplet digital PCR measurements from the phage local adaptation experiment in 2021. For treatments that were sequenced (16S V4 amplicon), the BioSample ID is noted so that sample metadata and droplet digital PCR measurements can be linked to sequences on the NCBI SRA accession PRJNA1121198.
